@@ -1,0 +1,4 @@
+1、打开方式：命令行启动"DocumentManagement.jar"
+
+2、程序配置：JavaSDK 1.8..0_131
+	     IntelliJ IDEA 2019.3
